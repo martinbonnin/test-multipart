@@ -1,0 +1,7 @@
+type Query {
+    unused: Int
+}
+
+type Subscription {
+    echo: String
+}
